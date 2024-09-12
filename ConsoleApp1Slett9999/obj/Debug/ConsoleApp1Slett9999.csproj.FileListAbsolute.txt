@@ -1,0 +1,7 @@
+E:\Visual Studio\C# Metoder\ConsoleApp1Slett9999\bin\Debug\ConsoleApp1Slett9999.exe.config
+E:\Visual Studio\C# Metoder\ConsoleApp1Slett9999\bin\Debug\ConsoleApp1Slett9999.exe
+E:\Visual Studio\C# Metoder\ConsoleApp1Slett9999\bin\Debug\ConsoleApp1Slett9999.pdb
+E:\Visual Studio\C# Metoder\ConsoleApp1Slett9999\obj\Debug\ConsoleApp1Slett9999.csproj.AssemblyReference.cache
+E:\Visual Studio\C# Metoder\ConsoleApp1Slett9999\obj\Debug\ConsoleApp1Slett9999.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C# Metoder\ConsoleApp1Slett9999\obj\Debug\ConsoleApp1Slett9999.exe
+E:\Visual Studio\C# Metoder\ConsoleApp1Slett9999\obj\Debug\ConsoleApp1Slett9999.pdb
